@@ -1,5 +1,4 @@
-# Weather_app
-# Weather App
+Weather App
 
 A simple weather web application that allows users to check the current weather conditions for a specific city.
 
